@@ -19,7 +19,7 @@ import db from './models';
 
 // }
 // createSeed();
-app.get('/users',(req,res)=>{
+app.get('/',(req,res)=>{
 db.User.findAll({
     include:{
         model:db.Project
