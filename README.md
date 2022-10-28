@@ -1,0 +1,2 @@
+# associations_typescript_project
+associations_typescript_project
