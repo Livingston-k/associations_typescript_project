@@ -1,2 +1,2 @@
-# associations_typescript_project
+# Node Sequelise Associations with Trypescript
 associations_typescript_project
